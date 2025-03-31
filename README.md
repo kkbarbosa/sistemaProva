@@ -1,46 +1,49 @@
-Sistema de Cadastro de Gabarito e Correção
+# Sistema de Cadastro de Gabarito e Correção
+
 Este sistema permite o cadastro e correção de gabaritos de alunos, o gerenciamento de instrutores e alunos, além do login de instrutores. Foi desenvolvido com o objetivo de simplificar o processo de correção de provas e garantir uma gestão eficiente dos dados relacionados a alunos e instrutores.
 
-Funcionalidades
-Cadastro de Alunos
-Permite o cadastro de alunos com informações como nome, matrícula e outras informações relevantes.
+---
 
-Cadastro de Gabaritos de Alunos
-Permite que os alunos submetam seus gabaritos para correção.
+## Funcionalidades
 
-Correção de Gabaritos
-Os instrutores podem corrigir os gabaritos submetidos pelos alunos.
+- **Cadastro de Alunos**  
+  Permite o cadastro de alunos com informações como nome, matrícula e outras informações relevantes.
 
-Login de Instrutores
-Instrutores podem acessar o sistema usando suas credenciais para gerenciar as correções.
+- **Cadastro de Gabaritos de Alunos**  
+  Permite que os alunos submetam seus gabaritos para correção.
 
-Cadastro de Instrutores
-Permite o cadastro de instrutores, com suas informações pessoais e de login.
+- **Correção de Gabaritos**  
+  Os instrutores podem corrigir os gabaritos submetidos pelos alunos.
 
-Atualização de Dados dos Alunos
-Os dados dos alunos podem ser atualizados quando necessário.
+- **Login de Instrutores**  
+  Instrutores podem acessar o sistema usando suas credenciais para gerenciar as correções.
 
-Tecnologias Utilizadas
-Frontend
-HTML
+- **Cadastro de Instrutores**  
+  Permite o cadastro de instrutores, com suas informações pessoais e de login.
 
-CSS
+- **Atualização de Dados dos Alunos**  
+  Os dados dos alunos podem ser atualizados quando necessário.
 
-JavaScript
+---
 
-Backend
-Node.js
+## Tecnologias Utilizadas
 
-Express
+### **Frontend**  
+- HTML  
+- CSS  
+- JavaScript
 
-JSON
+### **Backend**  
+- Node.js  
+- Express  
+- JSON  
+- CORS
 
-CORS
+### **Banco de Dados**  
+- MySQL
 
-Banco de Dados
-MySQL
+### **Outras Ferramentas**  
+- GitHub (para controle de versão)  
+- Figma (para design e prototipação)
 
-Outras Ferramentas
-GitHub (para controle de versão)
-
-Figma (para design e prototipação)
+---
